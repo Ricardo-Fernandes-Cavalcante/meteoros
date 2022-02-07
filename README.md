@@ -1,2 +1,2 @@
 # meteoros
- chuva de meteoros
+ chuva de meteoros em JavaScript
